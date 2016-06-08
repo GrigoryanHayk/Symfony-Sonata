@@ -1,0 +1,24 @@
+.idea/
+tmp
+app/bootstrap.php.cache
+app/cache
+app/config/parameters.yml
+# Symfony directories
+vendor/*
+nbproject/*
+*/logs/*
+*/cache/*
+web/uploads/*
+web/bundles/*
+web/css/*
+web/js/*
+web/images/*
+
+# Configuration files
+app/config/parameters.ini
+
+nbproject
+.DS_Store
+composer.lock
+web/sym
+composer.phar
